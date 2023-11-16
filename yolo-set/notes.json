@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Chair"
+    },
+    {
+      "id": 1,
+      "name": "Painting"
+    },
+    {
+      "id": 2,
+      "name": "Plant"
+    },
+    {
+      "id": 3,
+      "name": "Sofa"
+    },
+    {
+      "id": 4,
+      "name": "Table"
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

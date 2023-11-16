@@ -1,0 +1,11 @@
+path: C:\ilham files\codes\viskom\mid-semester_project\object-detection-tf\yolo-set
+train: C:\ilham files\codes\viskom\mid-semester_project\object-detection-tf\yolo-set\images
+val: C:\ilham files\codes\viskom\mid-semester_project\object-detection-tf\yolo-set\images
+
+# Classes
+names:
+  0: Chair
+  1: Painting
+  2: Plant
+  3: Sofa
+  4: Table
